@@ -16,4 +16,4 @@ Copyright info
 No use is allowed without explicit permission from owner.
 
 
-With ♥ from Nick Kalogerogiannis & Rainbyte Studio
+Made with ♥ in Greece from Nick Kalogerogiannis @ Rainbyte Studio.

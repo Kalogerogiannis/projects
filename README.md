@@ -1,4 +1,4 @@
-rainbyte|labs
+Rainbyte Studio
 ===
 
 Report issues you notice at our website projects.
@@ -16,4 +16,4 @@ Copyright info
 No use is allowed without explicit permission from owner.
 
 
-With ♥ from Nick Kalogerogiannis & Rainbyte Labs
+With ♥ from Nick Kalogerogiannis & Rainbyte Studio

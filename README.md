@@ -9,7 +9,7 @@ Found a bug or have an idea for a new feature? Feel free to [create a new issue]
 
 Notes
 ---
-Please do not forget to include your project name, from example the domain of your website, in case it is managed by us.
+Please do not forget to include your project name, for example the domain of your website, in case it is managed by us.
 
 Copyright info
 ---

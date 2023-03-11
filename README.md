@@ -5,7 +5,7 @@ Report issues you notice at our website projects.
 
 Bugs and issues
 ---
-Found a bug or have an idea for a new feature? Feel free to [create a new issue](https://github.com/kalogerogiannis/websites/issues/new), or suggest a fix by [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
+Found a bug or have an idea for a new feature? Feel free to [create a new issue](https://github.com/kalogerogiannis/projects/issues/new), or suggest a fix by [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
 Notes
 ---

@@ -17,4 +17,4 @@ No use is allowed without explicit permission from owner.
 
 Credits
 ---
-Made with ♥ in Greece from Nick Kalogerogiannis @ Rainbyte Studio.
+Made with ♥ in Greece from Nikolaos Kalogerogiannis @ Rainbyte Studio.
